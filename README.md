@@ -1,5 +1,7 @@
 # Kodentuzo Blanks
 
+> Starter templates for new web apps.
+
 Starter templates for new apps, set up for [Kodentuzo Studio](https://github.com/kodentuzo/studio), one per folder. None yet.
 
 Each template lives in its own top-level folder with its own `tape.json`, the file that says
